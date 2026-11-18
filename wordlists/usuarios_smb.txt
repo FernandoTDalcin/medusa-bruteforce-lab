@@ -1,0 +1,9 @@
+msfadmin
+user
+service
+postgres
+mysql
+ftp
+proftpd
+tomcat55
+root

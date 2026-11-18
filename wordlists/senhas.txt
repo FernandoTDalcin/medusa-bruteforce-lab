@@ -1,0 +1,4 @@
+msfadmin
+123456
+senha123
+lab2026!
